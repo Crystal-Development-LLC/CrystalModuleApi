@@ -1,0 +1,12 @@
+############################################################
+# +------------------------------------------------------+ #
+# |              Crystal Module API                      | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Disabled modules - to disable, change to 'true'
+patchcrumbs: false
+breadcrumbs: false
+adjusthelper: false
+floatfinder: false
+dispensercheck: false
